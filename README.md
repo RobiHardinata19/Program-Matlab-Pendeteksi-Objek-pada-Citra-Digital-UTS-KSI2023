@@ -1,5 +1,5 @@
 # Program-Matlab-Pendeteksi-Objek-pada-Citra-Digital-UTS-KSI2023
-
+Robi Hardinata 120140034 - KSI RD
 Link Running Program dan Laporan : https://drive.google.com/drive/folders/1hsu0kD-YyRBk5qMVSsQGypJ5Q0fEwwEk?usp=share_link
 
 ## Cara Menjalankan Program
